@@ -1,5 +1,4 @@
 ### :man_technologist: Hi there I am Harsh Sharma
-![](https://komarev.com/ghpvc/?username=HarshZ26&color=blue)
 - 🔭 I’m currently working on Object Detection
 - 🌱 I’m currently learning Computer Vision and Deep Learning
 - 😄 Pronouns: He
